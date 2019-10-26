@@ -1,0 +1,17 @@
+{
+  "name": "express-testing-something",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.21.1",
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui-dist": "^3.19.2",
+    "swagger-ui-express": "^3.0.9"
+  }
+}
